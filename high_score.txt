@@ -1,0 +1,3 @@
+arnav: 1000
+someone: 3
+heey: 0
